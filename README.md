@@ -46,6 +46,3 @@ Shift+Ctrl+Up/Down   |Shift+Fn+Ctrl+Left/Right    |Navega para o início ou fim 
 
 *__(7)__: Se o cursor estiver na assinatura do método/função, moverá o bloco todo. Se estiver em outro local, moverá somente a linha onde está o cursor.*
 
-
-===================
-## Paulo Henrique Mendes Pereira
