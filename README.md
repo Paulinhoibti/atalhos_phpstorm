@@ -28,8 +28,8 @@ Shift+Ctrl+Up/Down   |Shift+Fn+Ctrl+Left/Right    |Navega para o início ou fim 
 
 
 
-
 *__Up__ = seta para cima / __Down__ = seta para baixo*
+
 
 ##Observações
 *__(1)__: lembre-se que as teclas F1 à F12 no teclado da Apple, não são as funções primárias dos botões, então para usá-las, precisa da tecla __fn__. Exemplo: __fn+tecla de aumentar volume__ = __F12__*
