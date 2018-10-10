@@ -27,7 +27,6 @@ Ctrl+Up/Down   |Fn+Ctrl+Left/Right    |Navega para o início ou fim do arquivo
 Shift+Ctrl+Up/Down   |Shift+Fn+Ctrl+Left/Right    |Navega para o início ou fim do arquivo, selecionando o conteúdo
 
 
-
 *__Up__ = seta para cima / __Down__ = seta para baixo*
 
 
