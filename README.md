@@ -10,9 +10,9 @@ Ctrl+Shift+F   |Ctrl+Shift+F|Busca, busca e troca e outros em um determinado cam
 Ctrl+D (2)     |Option+Up (2) | Seleciona palavra
 Ctrl+D (3)     |Ctrl+G |Busca ocorrências da seleção no resto do arquivo
 (4)            |Ctrl+Click ou Ctrl+B|Vai para a definição do símbolo
-Ctrl+/         |Ctrl+/ (5) |Comenta linha
+Ctrl+/         |Ctrl+/ (5) |Comenta linha.
 (4)            |Ctrl+Option+/ (6)|Comenta trecho de código
-Ctrl+Ctrl+Up|Ctrl+Shift+Up (7)|Move linha pra cima
+Ctrl+Ctrl+Up|Ctrl+Shift+Up (7)|Move linha pra cima.
 Ctrl+Ctrl+Down |Ctrl+Shift+Down (7)|Move linha para baixo
 (4)            |Ctrl+Shift+__+__|Expande o conteúdo de todos os blocos do código.
 (4)            |Ctrl+Shift+__-__|Esconde o conteúdo de todos os blocos do código.
