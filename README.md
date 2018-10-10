@@ -14,11 +14,11 @@ Ctrl+/         |Ctrl+/ (5) |Comenta linha
 (4)            |Ctrl+Option+/ (6)|Comenta trecho de código
 Ctrl+Ctrl+Up|Ctrl+Shift+Up (7)|Move linha pra cima
 Ctrl+Ctrl+Down |Ctrl+Shift+Down (7)|Move linha para baixo
-(4)            |Ctrl+Shift+__+__|Expande o conteúdo de todos os blocos do código
-(4)            |Ctrl+Shift+__-__|Esconde o conteúdo de todos os blocos do código
-(4)            |Ctrl+__+__|Expande o conteúdo do bloco onde o cursor está
-(4)            |Ctrl+__-__|Esconde o conteúdo do bloco onde o cursor está
-(4)            |Ctrl+O |Busca de classes PHP
+(4)            |Ctrl+Shift+__+__|Expande o conteúdo de todos os blocos do código.
+(4)            |Ctrl+Shift+__-__|Esconde o conteúdo de todos os blocos do código.
+(4)            |Ctrl+__+__|Expande o conteúdo do bloco onde o cursor está.
+(4)            |Ctrl+__-__|Esconde o conteúdo do bloco onde o cursor está.
+(4)            |Ctrl+O |Busca de classes PHP.
 (4)            |Ctrl+Shift+O |Busca de arquivos no projeto
 Ctrl+Ctrl+Up e Ctrl+Ctrl+Down           |Option+Shift+Up e Option+Shift+Down |Move a linha livremente para cima ou para baixo (Diferente do Ctrl+Ctrl+Up/Down que move a linha formatando e também move blocos inteiros)
 (4)            |Ctrl+Shift+Left/Right |Navega pelas abas para a esquerda e para a direita, mas sempre circular
