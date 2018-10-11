@@ -2,8 +2,8 @@
 
 Sublime Text   |PHPStorm |Função
 ---------------|---------|-------------
-Ctrl+P         |Ctrl+Shift+O |Busca por arquivos no projeto
-Ctrl+R         |Ctrl+F12 (1) |Lista os métodos da classe e outros símbolos
+Ctrl+P         |Ctrl+Shift+O |Busca por arquivos no projeto.
+Ctrl+R         |Ctrl+F12 (1) |Lista os métodos da classe e outros símbolos.
 Ctrl+F         |Ctrl+F    |Busca no arquivo.
 Ctrl+Option+F  |Ctrl+R    |Busca e troca os valores no arquivo
 Ctrl+Shift+F   |Ctrl+Shift+F|Busca, busca e troca e outros em um determinado caminho com várias regras.
